@@ -1,1 +1,1 @@
-# GitTraining
+resolved lines
